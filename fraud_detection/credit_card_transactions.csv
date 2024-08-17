@@ -1,0 +1,22 @@
+TransactionID,TransactionAmount,TransactionDate,CardType,MerchantCategory,CardholderRegion,TimeOfDay,IsInternational,Fraudulent
+T001,200.50,2024-08-01,Credit,Electronics,North America,Afternoon,No,No
+T002,15.75,2024-08-01,Debit,Groceries,Europe,Morning,No,No
+T003,5000.00,2024-08-02,Credit,Travel,Asia,Night,Yes,Yes
+T004,45.00,2024-08-02,Debit,Clothing,North America,Evening,No,No
+T005,1200.00,2024-08-03,Credit,Luxury,Europe,Night,Yes,Yes
+T006,75.00,2024-08-03,Debit,Restaurants,South America,Morning,No,No
+T007,300.00,2024-08-04,Credit,Electronics,Asia,Afternoon,Yes,Yes
+T008,9.99,2024-08-04,Debit,Entertainment,North America,Evening,No,No
+T009,250.00,2024-08-05,Credit,Electronics,Europe,Night,Yes,No
+T010,100.00,2024-08-05,Debit,Groceries,North America,Morning,No,No
+T011,3500.00,2024-08-06,Credit,Luxury,Asia,Night,Yes,Yes
+T012,22.50,2024-08-06,Debit,Restaurants,North America,Afternoon,No,No
+T013,500.00,2024-08-07,Credit,Clothing,South America,Evening,Yes,No
+T014,8.50,2024-08-07,Debit,Entertainment,Europe,Morning,No,No
+T015,4500.00,2024-08-08,Credit,Travel,Asia,Night,Yes,Yes
+T016,60.00,2024-08-08,Debit,Groceries,North America,Afternoon,No,No
+T017,750.00,2024-08-09,Credit,Luxury,Europe,Night,Yes,No
+T018,30.00,2024-08-09,Debit,Restaurants,Asia,Evening,No,No
+T019,1000.00,2024-08-10,Credit,Electronics,North America,Night,No,Yes
+T020,5.99,2024-08-10,Debit,Entertainment,South America,Morning,No,No
+
