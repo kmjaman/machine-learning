@@ -1,0 +1,22 @@
+ReviewID,ReviewText,Rating,Sentiment
+R001,"I absolutely love this product! It works perfectly and exceeds my expectations.",5,Positive
+R002,"The product is okay, but I've seen better. It does the job.",3,Neutral
+R003,"I'm really disappointed with this purchase. The quality is poor and it broke after a week.",1,Negative
+R004,"This is by far the best thing I've bought all year. Highly recommend it!",5,Positive
+R005,"The product is decent, but nothing special. I might consider buying again.",3,Neutral
+R006,"Terrible experience. The product arrived damaged and customer service was unhelpful.",1,Negative
+R007,"Excellent quality and great value for the price. Very happy with my purchase.",5,Positive
+R008,"The product is fine, but the shipping was delayed, which was frustrating.",2,Neutral
+R009,"I regret buying this. It doesn't work as advertised and is a waste of money.",1,Negative
+R010,"Amazing product! Will definitely buy again and recommend to friends.",5,Positive
+R011,"Not impressed. The product is overpriced for what it offers.",2,Negative
+R012,"It’s a good product, but I wish it came in different colors.",4,Neutral
+R013,"I’m really happy with this purchase. It’s exactly what I was looking for.",5,Positive
+R014,"The product is just average. Nothing to write home about.",3,Neutral
+R015,"Worst product ever! Do not waste your money on this.",1,Negative
+R016,"I love how this works. It’s perfect for my needs.",5,Positive
+R017,"The product is okay, but it took too long to arrive.",3,Neutral
+R018,"Completely useless. I want a refund.",1,Negative
+R019,"This is a great product! I use it every day and it hasn’t let me down.",5,Positive
+R020,"The product works, but it’s not as good as I hoped.",3,Neutral
+
